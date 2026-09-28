@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title">
+  <title id="title">Number pattern output preview</title>
+  <rect width="800" height="450" fill="#20221e"/><rect x="102" y="52" width="596" height="346" rx="7" fill="#10110f" stroke="#c7a86a"/>
+  <rect x="102" y="52" width="596" height="42" rx="7" fill="#282a25"/><circle cx="126" cy="73" r="6" fill="#bb7160"/><circle cx="146" cy="73" r="6" fill="#c7a86a"/><circle cx="166" cy="73" r="6" fill="#83a77a"/><text x="202" y="79" fill="#a6a79e" font-family="monospace" font-size="15">set1act1.html — output</text>
+  <g fill="#e4c88c" font-family="monospace" font-size="29"><text x="159" y="151">1</text><text x="159" y="198">12</text><text x="159" y="245">123</text><text x="159" y="292">1234</text><text x="159" y="339">12345</text></g>
+  <text x="278" y="154" fill="#77796e" font-family="monospace" font-size="14">row 1</text><text x="278" y="201" fill="#77796e" font-family="monospace" font-size="14">row 2</text><text x="278" y="248" fill="#77796e" font-family="monospace" font-size="14">row 3</text><text x="278" y="295" fill="#77796e" font-family="monospace" font-size="14">row 4</text><text x="278" y="342" fill="#77796e" font-family="monospace" font-size="14">row 5</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title">
+  <title id="title">Portfolio website visual preview</title>
+  <rect width="800" height="450" fill="#20221e"/><rect x="70" y="45" width="660" height="360" rx="8" fill="#10110f" stroke="#c7a86a"/>
+  <rect x="70" y="45" width="660" height="44" rx="8" fill="#282a25"/><circle cx="94" cy="67" r="6" fill="#bb7160"/><circle cx="114" cy="67" r="6" fill="#c7a86a"/><circle cx="134" cy="67" r="6" fill="#83a77a"/>
+  <rect x="105" y="126" width="238" height="14" fill="#e4c88c"/><rect x="105" y="160" width="300" height="38" fill="#e4c88c"/><rect x="105" y="212" width="252" height="10" fill="#77796e"/><rect x="105" y="231" width="224" height="10" fill="#77796e"/>
+  <rect x="105" y="274" width="118" height="38" rx="4" fill="#c7a86a"/><rect x="237" y="274" width="112" height="38" rx="4" fill="none" stroke="#e4c88c"/>
+  <rect x="474" y="126" width="208" height="208" rx="4" fill="#8d493e"/><text x="578" y="253" text-anchor="middle" fill="#f2f0e9" font-family="Georgia,serif" font-size="88">JD</text>
+</svg>

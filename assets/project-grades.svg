@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title">
+  <title id="title">Student grade analyzer console output preview</title>
+  <rect width="800" height="450" fill="#20221e"/><rect x="64" y="47" width="672" height="356" rx="7" fill="#10110f" stroke="#c7a86a"/>
+  <rect x="64" y="47" width="672" height="43" rx="7" fill="#282a25"/><circle cx="88" cy="68" r="6" fill="#bb7160"/><circle cx="108" cy="68" r="6" fill="#c7a86a"/><circle cx="128" cy="68" r="6" fill="#83a77a"/><text x="165" y="74" fill="#a6a79e" font-family="monospace" font-size="15">Set 1 - Activity 3 — example run</text>
+  <g font-family="monospace" font-size="16"><text x="99" y="130" fill="#83a77a">Lia -&gt; 85.5 (Passed)</text><text x="99" y="164" fill="#83a77a">Noah -&gt; 92.2 (Passed)</text><text x="99" y="215" fill="#a6a79e">Passed: 2</text><text x="99" y="246" fill="#a6a79e">Failed: 0</text><text x="99" y="277" fill="#e4c88c">Average: 88.9</text><text x="99" y="319" fill="#e4c88c">Highest: Noah - 92.2</text><text x="99" y="351" fill="#e4c88c">Lowest: Lia - 85.5</text></g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 520" role="img" aria-labelledby="title description">
+  <title id="title">JD monogram</title>
+  <desc id="description">A gold JD monogram on a warm geometric background.</desc>
+  <rect width="520" height="520" fill="#24251f"/>
+  <path d="M0 390 390 0h130v130L130 520H0z" fill="#8d493e" opacity=".62"/>
+  <path d="M0 120 120 0h120L0 240z" fill="#c7a86a" opacity=".62"/>
+  <path d="M399 520 520 399v121z" fill="#c7a86a" opacity=".8"/>
+  <rect x="35" y="35" width="450" height="450" fill="none" stroke="#e4c88c" stroke-opacity=".45"/>
+  <text x="260" y="300" text-anchor="middle" fill="#f2f0e9" font-family="Georgia,serif" font-size="160">JD</text>
+  <text x="260" y="350" text-anchor="middle" fill="#e4c88c" font-family="Arial,sans-serif" font-size="17" letter-spacing="5">JAELAM DINGLASAN</text>
+</svg>

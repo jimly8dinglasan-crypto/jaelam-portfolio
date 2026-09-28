@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title">
+  <title id="title">Five-number statistics calculator output preview</title>
+  <rect width="800" height="450" fill="#20221e"/><rect x="82" y="50" width="636" height="350" rx="7" fill="#10110f" stroke="#c7a86a"/>
+  <rect x="82" y="50" width="636" height="43" rx="7" fill="#282a25"/><circle cx="106" cy="71" r="6" fill="#bb7160"/><circle cx="126" cy="71" r="6" fill="#c7a86a"/><circle cx="146" cy="71" r="6" fill="#83a77a"/><text x="183" y="77" fill="#a6a79e" font-family="monospace" font-size="15">set 1.html — example run</text>
+  <text x="123" y="132" fill="#83a77a" font-family="monospace" font-size="14">inputs: 12, 5, 19, 8, 11</text>
+  <g font-family="monospace" font-size="21"><text x="123" y="184" fill="#a6a79e">total:</text><text x="300" y="184" fill="#e4c88c">55</text><text x="123" y="229" fill="#a6a79e">average:</text><text x="300" y="229" fill="#e4c88c">11</text><text x="123" y="274" fill="#a6a79e">highest:</text><text x="300" y="274" fill="#e4c88c">19</text><text x="123" y="319" fill="#a6a79e">lowest:</text><text x="300" y="319" fill="#e4c88c">5</text></g>
+</svg>
